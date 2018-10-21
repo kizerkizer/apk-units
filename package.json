@@ -1,7 +1,8 @@
 {
   "author": {
     "name": "Alex Kizer",
-    "description": "Functions that concatenate the css unit for which they are named."
+    "description": "Functions which concatenate the css unit for which they are named.",
+    "url": "https://github.com/kizerkizer/apk-units"
   },
   "displayName": "apk-css-units",
   "description": "",
