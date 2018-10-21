@@ -1,0 +1,10 @@
+{
+    "extends": "./tsconfig.base.json",
+    "compilerOptions": {
+        "module": "es2015",
+        "outDir": "../../dist/esm"
+    },
+    "include": [
+        "../../src/**/*.ts"
+    ]
+}
